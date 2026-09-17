@@ -1,6 +1,8 @@
+
+
 Simple project for study makefiles
 =====================
-
+Glukhanuk Ivan
 Примеры для обучения использованию make-файлов
 
 _example-1_
