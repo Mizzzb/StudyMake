@@ -1,2 +1,14 @@
 hello
 hello-dbg
+".o
+
+*.swp
+*.tmp
+*.log
+
+build/
+dist/
+
+*~
+
+core
